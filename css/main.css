@@ -5,3 +5,13 @@ body {
 .height {
   min-height: 70vh;
 }
+
+.title-underline {
+  width: 200px;
+  height: 5px;
+  margin: 0 auto;
+}
+
+.about-picture {
+  background: url(../img/pexels-photo-1061588.jpeg) center/cover no-repeat fixed;
+}
